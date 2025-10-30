@@ -17,6 +17,11 @@ public class Sample_1 {
 			System.out.println("AJITH");
 
 		}
+		
+		private void Vijay() {
+			System.out.println("MASTER");
+
+		}
 
 	
 
